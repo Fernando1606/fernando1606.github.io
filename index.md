@@ -18,5 +18,5 @@ On my [GitHub account](https://github.com/Fernando1606) you can see lot of proje
 Right now I am learning Python, Spring and C# as you can see on my [LinkedIn](https://www.linkedin.com/in/fernando-solance/) profile where I post every challenge that I 
 accomplish.
 
-Right now, I am looking for my first IT job, to keep learning, get experience and be the best!
+At the moment, I am looking for my first IT job, to keep learning, get experience and be the best!
 
