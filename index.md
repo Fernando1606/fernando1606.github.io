@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Fernando Javier Solance Flores
 
-You can use the [editor on GitHub](https://github.com/Fernando1606/fernando1606.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I have just finished my studies on TIC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Multiplatform develpment.
 
-### Markdown
+I learnt about Java, MySQL, PL/SQL, Python, ERP-CRM, Git, HTML5, CSS3, JavaScript, React-Native..
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Main projects
 
-```markdown
-Syntax highlighted code block
+On my [GitHub account](https://github.com/Fernando1606) you can see lot of projects, but there are two of themes that make me by proud of my self.
 
-# Header 1
-## Header 2
-### Header 3
+- [MotorBikeControl:](https://github.com/Fernando1606/MotorBikeControl) This is the final work from my studies. I worked so much on it but it have not finished yet.
+- [RSA:](https://github.com/Fernando1606/Encriptaci-n-RSA/tree/master) This Java project works on RSA encryption. It was so hard while I was making it!
 
-- Bulleted
-- List
+### Future
 
-1. Numbered
-2. List
+Right now I am learning Python, Spring and C# as you can see on my [LinkedIn](https://www.linkedin.com/in/fernando-solance/) profile where I post every challenge that I 
+accomplish.
 
-**Bold** and _Italic_ and `Code` text
+Right now, I am looking for my first IT job, to keep learning, get experience and be the best!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fernando1606/fernando1606.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
